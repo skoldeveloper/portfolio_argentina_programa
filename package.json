@@ -1,0 +1,29 @@
+{
+  "name": "portfolio_argentina_programa",
+  "version": "0.1.0",
+  "description": "Portfolio dinámico como proyecto final de Argentina Programa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perezcatriel/portfolio_argentina_programa.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "bootstrap",
+    "javascript",
+    "angular",
+    "java",
+    "mysql",
+    "npm"
+  ],
+  "author": "catriel perezcatriel@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perezcatriel/portfolio_argentina_programa/issues"
+  },
+  "homepage": "https://github.com/perezcatriel/portfolio_argentina_programa#readme"
+}

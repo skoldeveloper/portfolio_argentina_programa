@@ -103,6 +103,8 @@ Este proyecto está bajo la Licencia (MIT) - mira el archivo [Licencia](https://
 * Da las gracias públicamente 🤓.
 * etc.
 
+![plot](https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1643416595/APLogo-20-20.png)
+
 
 
 ---
