@@ -4,6 +4,8 @@
 
 Creación de un portfolio personal dinámico con Angular, JAVA del lado del servidor y utilizando MySQL para base de datos.
 
+![plot](https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1643416595/APLogo-20-20.png)
+
 ## Comenzando 🚀
 
 *Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.*
@@ -102,10 +104,5 @@ Este proyecto está bajo la Licencia (MIT) - mira el archivo [Licencia](https://
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
 * etc.
-
-![plot](https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1643416595/APLogo-20-20.png)
-
-
-
 ---
 ⌨️ con ❤️ por [perezcatriel](https://github.com/perezcatriel) 😊
