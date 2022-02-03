@@ -1,0 +1,119 @@
+:root {
+	--color-uno: #f4f9f9;
+	--color-dos: #ccf2f4;
+	--color-tres: #a4ebf3;
+	--color-cuatro: #aaaaaa;
+	--font: "Ubuntu", sans-serif;
+}
+* {
+	background-color: var(--color-uno);
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: var(--font);
+	font-size: 62.5%;
+}
+
+header figure img {
+	width: 100vw;
+	height: 30vh;
+	background-color: var(--color-tres);
+}
+
+form {
+	margin-top: 10vh;
+	margin-left: auto;
+	margin-right: auto;
+  padding: 8px;
+	width: 80vw;
+	border: 1px solid var(--color-dos);
+	border-radius: 20px;
+	box-shadow: 0px 0px 16px var(--color-cuatro);
+  
+}
+
+main form h1 {
+	margin: 8px 0;
+  color: var(--color-tres);
+	font-size: 2rem;
+	text-align: center;
+	
+}
+main form label input {
+  margin-top: 8px;
+  margin-left: calc(50% - 50%);
+	border-radius: 4px;
+	padding: 8px;
+	width: 74vw;
+	border-style: none;
+	background-color: var(--color-dos);
+	font-size: 1.6rem;
+	color: var(--color-cuatro);
+	font-weight: bold;
+}
+main form label input:focus {
+	outline: 3px solid var(--color-tres);
+}
+
+main form p{
+  text-align:center;
+  margin-top: 4px;
+}
+main form p a{
+  font-size:1.2rem !important;
+  text-decoration: none;
+  color: var(--color-cuatro);
+}
+
+main form input[type="button"] {
+  background-color: var(--color-tres);
+  width: 60vw;
+  border-radius: 8px;
+  border-style: none;
+  box-shadow: 0 0 4px var(--color-cuatro);
+  margin-top: 8px;
+  margin-left:calc(50% - 38%);
+  margin-bottom: 8px;
+  padding: 4px;
+  font-size: 1.6rem;
+  color: var(--color-uno);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+main form input[type="button"]:hover {
+cursor: pointer;
+border: 1px solid var(--color-dos);
+}
+
+button {
+  font-size: 1.2rem;
+  border-style: none;
+  border: 1px solid var(--color-dos);
+  border-radius: 8px;
+  background-color: var(--color-uno);
+  width: 80vw;
+  margin-top: 16px;
+  margin-left: 35px;
+  padding: 4px;
+  cursor: pointer; 
+}
+
+aside  {
+  font-size: 2rem;
+  display: none;
+}
+
+footer {
+  margin-top: 20px;
+	font-size: 1.2rem;
+  display:block;  
+  width: 100vw;
+  height: 120vw;
+}
+footer div {
+	background-color: var(--color-cuatro);
+	color: var(--color-uno);
+	padding: 10px;
+  text-align:center;
+}
